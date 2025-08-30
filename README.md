@@ -25,8 +25,8 @@ This project is for practicing front-end development, responsive design, and int
 
 <p align="center">
   <img src="src/tCss1.png" alt="Screenshot 1" width="250"/>
-  <img src="src/tCss2.png" alt="Screenshot 2" width="250"/>
-  <img src="src/tCss3.png" alt="Screenshot 3" width="250"/>
+  <img src="src/tcss2.png" alt="Screenshot 2" width="250"/>
+  <img src="src/tcss3.png" alt="Screenshot 3" width="250"/>
 </p>
 
 ---
